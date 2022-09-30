@@ -15,6 +15,8 @@ public class DetectCollisions : MonoBehaviour
     {
         
     }
+    //Se creo esta funcion para destruir los objetos que colisionan entre si
+    //Con la opcion trigger del collider se puede usar esta función
     void OnTriggerEnter(Collider other){
         Destroy(gameObject);
         Destroy(other.gameObject);
