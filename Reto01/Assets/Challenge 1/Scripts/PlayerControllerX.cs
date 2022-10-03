@@ -31,7 +31,7 @@ public class PlayerControllerX : MonoBehaviour
 
         // tilt the plane up/down based on up/down arrow keys
         //mover  arriba o abajo dependiento del uso de las teclas verticales
-        transform.Rotate(Vector3.right  * rotationSpeed*40*verticalInput);
+        transform.Rotate(Vector3.right  *2*verticalInput);
         //mover izquierda o derecha dependiendo del uso de las teclas horizontales
         transform.Rotate(Vector3.up  * rotationSpeed*30*horizontalInput);
         
