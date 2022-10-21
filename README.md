@@ -48,7 +48,7 @@
 * Lección 3
   * > <a href="https://github.com/ramirotUTNG/Juegos/blob/main/leccion3.unitypackage">Tutorial </a>
   * > <a href=""> </a>Laboratorio
-  * > <a href=""> </a>Desafío
+  * > <a href="https://github.com/ramirotUTNG/Juegos/blob/main/Reto3.unitypackage"> Desafío</a>
   * > <a href=""> </a>Prueba
 * Lección 4
   * > Tutorial
