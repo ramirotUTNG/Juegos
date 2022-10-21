@@ -46,7 +46,7 @@
   * > <a href="https://github.com/ramirotUTNG/Juegos/tree/main/Reto_02"> Desafío</a>
   * > <a href="https://drive.google.com/drive/folders/1nQ3D0ZxRDVHAnGvNjwIk1OsPZpPtm1dJ"> Prueba </a>
 * Lección 3
-  * > <a href=""> </a>Tutorial
+  * > <a href="https://github.com/ramirotUTNG/Juegos/blob/main/leccion3.unitypackage"> </a>Tutorial
   * > <a href=""> </a>Laboratorio
   * > <a href=""> </a>Desafío
   * > <a href=""> </a>Prueba
