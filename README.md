@@ -59,6 +59,18 @@
         - Al recolectar espera P se activará el powerup de Poder que hará los disparos más grandes y rápidos.
         - Al recolectar espera I se activará el powerup de Inmunidad por 5 segundos ante los ataques de los enemigos.
 - Pantallas de Juego
+    - Start game window
+        <img src="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/StartGameWindow.png">
+    - Scene level 1
+    <img src="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/SceneLevel1.png">
+    - Scene level 2
+    <img src="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/SceneLevel2.png">
+    - Choose level
+    <img src="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/ChooseLevelWindow.png">
+    - Choose level difficulty
+    <img src="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/LevelDifficultyWindow.png">
+    - Game over
+    <img src="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/GameOverWindow.png">
 - Plan de creación de VideoJuego.
     - Tablero Trello: https://trello.com/b/uW79WxxZ/proyecto-juego-ali-en-casa
  
@@ -94,12 +106,9 @@
   * > <a href=""> </a>Prueba
 * VideoJuego
 
-## Planificación
-
-
 
 ## Autor
-Godínez Torres Juan Ramiro 
+Aguayo Nuñez Sandra Nohelia & Godínez Torres Juan Ramiro
 
 ## Copyright
 Derechos Reservados 2022
