@@ -120,7 +120,7 @@
 
 
 ## Autor
-Aguayo Nuñez Sandra Nohelia & Godínez Torres Juan Ramiro
+Godínez Torres Juan Ramiro & Aguayo Nuñez Sandra Nohelia
 
 ## Copyright
 Derechos Reservados 2022
