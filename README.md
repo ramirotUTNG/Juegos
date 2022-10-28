@@ -52,7 +52,7 @@
   * > <a href="https://drive.google.com/drive/folders/1mHoR3Cpj4SpWAj5M7I03OGoZ8JYhbO58?usp=sharing"> Prueba</a>
 * Lección 4
   * > Tutorial
-  * > Laboratorio
+  * > <a href="https://github.com/ramirotUTNG/Juegos/blob/main/Laboratorio4.unitypackage">Laboratorio</a>
   * > Desafío
   * > Prueba
 * Lección 5
