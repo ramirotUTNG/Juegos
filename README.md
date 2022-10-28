@@ -89,8 +89,11 @@
     
     - Game over
     
-    <img src="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/GameOverWindow.png">
+    <img src="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/GameOverWindow_v1.png">
     
+    - My Scores
+        
+    <img src="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/img/MyScoresWindow.png">
 - Plan de creación de VideoJuego.
     - Tablero Trello: https://trello.com/b/uW79WxxZ/proyecto-juego-ali-en-casa
  
