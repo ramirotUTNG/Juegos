@@ -23,14 +23,44 @@
 
 ## Introducción
 
-- Copy Castle
-- Crear un videojuego 2D con dos niveles en los cuales se tendrá que vencer a un jefe.
-- Se desplegará para Windows, RGP, El personaje principal será Alucard, se desarrollará en una biblioteca.
-- No tiene historia, solo es ganar los dos niveles.
-- El personaje principal, y dos jefes
-- Matar a los dos jefes enemigos sin morir.
-- Pausa y pantalla de inicio
-- No se tiene ningún plan. 
+Nombre del proyecto: Ali-en casa
+Objetivo. Lograr escapar de la tierra y el espacio exterior esquivando a todos los enemigos que ataquen.
+Plataforma, Género, Clasificación, Personajes, Escenario.
+Plataforma: PC Windows.
+Género: Aventura, Space shooter.
+Clasificación: 12 años en adelante.
+Personajes:
+Jugador principal "Ali" (un alienigena).
+Humanos (enemigos nivel 1).
+Naves espaciales (enemigos nivel 2).
+Escenario:
+Bosque (nivel 1).
+Espacio exterior (nivel 2).
+Historia: Un alinigena llamado Ali se encuentra atrapado en la tierra, deberá cruzar el largo del bosque para encontrar su nave mientras sus enemigos los humanos lo persiguen para hacer pruebas cientificas con su cuerpo, una vez que recupere su nave podrá volver al espacio, pero incluso en el espacio sus enemigos acechan, deberá escapar de estos para poder volver a casa que se encuentra en otra lejana galaxia.
+Personajes:
+Jugador principal "Ali" (un alienigena).
+Humanos (enemigos nivel 1).
+Naves espaciales (enemigos nivel 2).
+Reglas de Juego.
+Nivel 1
+Terminar el recorrido del nivel sin haber muerto.
+Recolectar cierta cantidad de puntos objetivo para pasar al siguiente nivel.
+Esquivar a los enemigos para no perder vidas.
+Los puntos se obtienen al recolectar objetos en el escenario.
+Al chocar con el enemigo, se reduce 1 vida.
+Al perder las 3 vidas el jugador muere (pierde).
+Nivel 2
+Recolectar los puntos objetivo sin haber muerto.
+Recolectar los puntos objetivo antes de que termine el tiempo.
+Esquivar disparos de los enemigos para no perder vidas.
+Al ser disparado por un enemigo se reduce 1 vida.
+Vencer a los enemigos para obtener puntos.
+Al perder las 3 vidas el jugador muere (pierde).
+Al recolectar espera P se activará el powerup de Poder que hará los disparos más grandes y rápidos.
+Al recolectar espera I se activará el powerup de Inmunidad por 5 segundos ante los ataques de los enemigos.
+Pantallas de Juego
+Plan de creación de VideoJuego.
+Tablero Trello: https://trello.com/b/uW79WxxZ/proyecto-juego-ali-en-casa
  
 
 ## Código Fuente
