@@ -23,17 +23,16 @@
 
 ## Introducción
 
-Nombre del proyecto: Ali-en casa
-
--Objetivo. Lograr escapar de la tierra y el espacio exterior esquivando a todos los enemigos que ataquen.
--Plataforma, Género, Clasificación, Personajes, Escenario.
--Plataforma: PC Windows.
-Género: Aventura, Space shooter.
-Clasificación: 12 años en adelante.
-Personajes:
-Jugador principal "Ali" (un alienigena).
-Humanos (enemigos nivel 1).
-Naves espaciales (enemigos nivel 2).
+-Nombre del proyecto: Ali-en casa
+- Objetivo. Lograr escapar de la tierra y el espacio exterior esquivando a todos los enemigos que ataquen.
+- Plataforma, Género, Clasificación, Personajes, Escenario.
+- Plataforma: PC Windows.
+- Género: Aventura, Space shooter.
+- Clasificación: 12 años en adelante.
+- Personajes:
+    -Jugador principal "Ali" (un alienigena).
+    -Humanos (enemigos nivel 1).
+    -Naves espaciales (enemigos nivel 2).
 Escenario:
 Bosque (nivel 1).
 Espacio exterior (nivel 2).
