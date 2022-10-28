@@ -30,9 +30,9 @@
 - Género: Aventura, Space shooter.
 - Clasificación: 12 años en adelante.
 - Personajes:
-    -Jugador principal "Ali" (un alienigena).
-    -Humanos (enemigos nivel 1).
-    -Naves espaciales (enemigos nivel 2).
+    - Jugador principal "Ali" (un alienigena).
+    - Humanos (enemigos nivel 1).
+    - Naves espaciales (enemigos nivel 2).
 Escenario:
 Bosque (nivel 1).
 Espacio exterior (nivel 2).
