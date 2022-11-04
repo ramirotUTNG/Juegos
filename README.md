@@ -129,10 +129,10 @@
   * > <a href="https://github.com/ramirotUTNG/Juegos/blob/main/Leccion_4/Examen5.jpg">Prueba </a>
 * VideoJuego
   * Nivel 1 - Sandra
-  * > <a href="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/Proyecto%20Ali-en-Casa/"> Avance 1 </a>
+  * > <a href="https://github.com/SandraNAguayoN/gdgs2102_creacion_de_videojuegos/blob/main/Proyecto%20Ali-en-Casa/"> Avance v1.0 </a>
     - Se agrego la escena con el ground (suelo) y el background (fondo), el fondo se va generando y moviendo hacia la izquiera, también se agregó el player (jugador) a la escena y se configuro la forma de salto que tendrá la cual se limitará a un salto cuando se presione la barra espaciadora.
   * Nivel 2 - Ramiro
-  * > <a href="https://drive.google.com/file/d/1yzeY_UNSh12e3HD_x6Ix9LkvUy3M6oCF/view?usp=share_link"> Avance 1 </a>
+  * > <a href="https://drive.google.com/file/d/1yzeY_UNSh12e3HD_x6Ix9LkvUy3M6oCF/view?usp=share_link"> Avance v1.0 </a>
     - Se agrego una nave la cual se puede mover usando las flechas del teclado y una imagen de fondo del espacio, también se limito el movimiento de la nave para que no salga del espacio de juego.
   
 
