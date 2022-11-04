@@ -128,6 +128,9 @@
   * > <a href=""> </a>Desafío
   * > <a href="https://github.com/ramirotUTNG/Juegos/blob/main/Leccion_4/Examen5.jpg">Prueba </a>
 * VideoJuego
+  * Nivel 1
+  * > <a href=""> Avance 1 </a>
+    - Se agrego la escena con el ground (suelo) y el background (fondo), el fondo se va generando y moviendo hacia la izquiera, también se agregó el player (jugador) a la escena y se configuro la forma de salto que tendrá la cual se limitará a un salto cuando se presione la barra espaciadora.
   * Nivel 2
   * > <a href="https://drive.google.com/file/d/1yzeY_UNSh12e3HD_x6Ix9LkvUy3M6oCF/view?usp=share_link"> Avance 1 </a>
     - Se agrego una nave la cual se puede mover usando las flechas del teclado y una imagen de fondo del espacio, también se limito el movimiento de la nave para que no salga del espacio de juego.
