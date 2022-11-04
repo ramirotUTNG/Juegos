@@ -128,7 +128,10 @@
   * > <a href=""> </a>Desafío
   * > <a href="https://github.com/ramirotUTNG/Juegos/blob/main/Leccion_4/Examen5.jpg">Prueba </a>
 * VideoJuego
-
+  * Nivel 2
+  * > <a href=""> Avance 1 </a>
+    - Se agrego una nave la cual se puede mover usando las flechas del teclado y una imagen de fondo del espacio, también se limito el movimiento de la nave para que no salga del espacio de juego.
+  
 
 ## Autor
 Godínez Torres Juan Ramiro & Aguayo Nuñez Sandra Nohelia
