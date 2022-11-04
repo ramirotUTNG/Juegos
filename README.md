@@ -124,7 +124,7 @@
   
 * Lección 5
   * > <a href=""> </a>Tutorial
-  * > <a href=""> </a>Laboratorio
+  * > <a href="https://github.com/ramirotUTNG/Juegos/blob/main/Laboratorio5.unitypackage"> Laboratorio</a>
   * > <a href=""> </a>Desafío
   * > <a href=""> </a>Prueba
 * VideoJuego
