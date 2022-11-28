@@ -134,7 +134,9 @@
   * Nivel 2 - Ramiro
   * > <a href="https://drive.google.com/file/d/1yzeY_UNSh12e3HD_x6Ix9LkvUy3M6oCF/view?usp=share_link"> Avance v1.0 </a>
     - Se agrego una nave la cual se puede mover usando las flechas del teclado y una imagen de fondo del espacio, también se limito el movimiento de la nave para que no salga del espacio de juego.
-  
+    
+    * Avance 28 Noviembre
+    *> <a href="https://drive.google.com/file/d/1kC4O2cXTv7m0OY7pYyDf_cR5AiQ25MZs/view?usp=share_link"> Versión final</a>
 
 ## Autor
 Godínez Torres Juan Ramiro & Aguayo Nuñez Sandra Nohelia
