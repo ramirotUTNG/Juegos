@@ -136,7 +136,8 @@
     - Se agrego una nave la cual se puede mover usando las flechas del teclado y una imagen de fondo del espacio, también se limito el movimiento de la nave para que no salga del espacio de juego.
     
   * Avance 28 Noviembre
-  * > <a href="https://drive.google.com/file/d/1kC4O2cXTv7m0OY7pYyDf_cR5AiQ25MZs/view?usp=share_link"> Versión final</a>
+  * > <a href="https://drive.google.com/drive/folders/16VC6bcLFa4qWZEgB8SSQXHq5PcFfUU1i"> Versión final</a>
+  * > <a href="https://ramirot.itch.io/ali"> Versión final</a> 
 
 ## Autor
 Godínez Torres Juan Ramiro & Aguayo Nuñez Sandra Nohelia
