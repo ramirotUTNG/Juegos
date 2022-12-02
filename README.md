@@ -137,7 +137,7 @@
     
   * Avance 28 Noviembre
   * > <a href="https://drive.google.com/drive/folders/16VC6bcLFa4qWZEgB8SSQXHq5PcFfUU1i"> Versión final</a>
-  * > <a href="https://ramirot.itch.io/ali"> Versión final</a> 
+  * > <a href="https://ramirot.itch.io/ali"> Juego</a> 
 
 ## Autor
 Godínez Torres Juan Ramiro & Aguayo Nuñez Sandra Nohelia
